@@ -1,2 +1,2 @@
 # ComicPhoto
-Обрабатывает изображение и делает мультяшную картинку
+Processes the image and makes a cartoon picture
